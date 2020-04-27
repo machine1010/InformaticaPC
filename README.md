@@ -1,0 +1,2 @@
+# InformaticaPC
+Informatica Knowledge Base
